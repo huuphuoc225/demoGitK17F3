@@ -1,1 +1,3 @@
 git . add : đóng gói những thay đổi 
+git pull : cập nhật
+git checkout: chuyển nhánh
