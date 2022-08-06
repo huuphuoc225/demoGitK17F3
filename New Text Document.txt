@@ -1,0 +1,1 @@
+git . add : đóng gói những thay đổi 
